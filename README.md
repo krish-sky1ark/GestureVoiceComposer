@@ -31,14 +31,14 @@ Below are the hand gestures used in GestureVoiceComposer:
 
 To get started with GestureVoiceComposer, follow these simple steps:
 
-1. Clone the repository to your local machine. git clone https://github.com/krish-sky1ark/GestureVoiceComposer.git
+1. Clone the repository to your local machine: git clone https://github.com/krish-sky1ark/GestureVoiceComposer.git
 
-2. Install the required dependencies mentioned below
-3. The Training dataset is present in the directory name Training_Dataset
-4. To build a new model Run the GestureVoiceComposer.ipynb file.
-5. To just test a model in real time run RealTimeTesting.ipynb mentioning path of the model.
-6. GVCmodel.h5 is the pre-trained model trained on training dataset provided.
-7. While testing make hand gestures like those displayed above. The model predicts the action and speaks it.
+3. Install the required dependencies mentioned below
+4. The Training dataset is present in the directory name Training_Dataset
+5. To build a new model Run the GestureVoiceComposer.ipynb file.
+6. To just test a model in real time run RealTimeTesting.ipynb mentioning path of the model.
+7. GVCmodel.h5 is the pre-trained model trained on training dataset provided.
+8. While testing make hand gestures like those displayed above. The model predicts the action and speaks it.
 
 ## Dependencies
 
