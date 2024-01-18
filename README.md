@@ -13,19 +13,19 @@ Welcome to GestureVoiceComposer, a project that combines the power of speech rec
 Below are the hand gestures used in GestureVoiceComposer:
 
 1. **Gesture for Action 1**
-   ![Hello](images/hello.jpg)
+   ![Hello](images/hello.png)
 
 2. **Gesture for Action 2**
-   ![Bye](images/bye.jpg)
+   ![Bye](images/bye.png)
 
 3. **Gesture for Action 3**
-   ![Thanks](images/thanks.jpg)
+   ![Thanks](images/thanks.png)
 
 4. **Gesture for Action 4**
-   ![Love](images/love.jpg)
+   ![Love](images/love.png)
 
 5. **Gesture for Action 5**
-   ![Shoot](images/shoot.jpg)
+   ![Shoot](images/shoot.png)
 
 ## Getting Started
 
