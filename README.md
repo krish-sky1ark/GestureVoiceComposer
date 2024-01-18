@@ -31,7 +31,9 @@ Below are the hand gestures used in GestureVoiceComposer:
 
 To get started with GestureVoiceComposer, follow these simple steps:
 
-1. Clone the repository to your local machine: git clone https://github.com/krish-sky1ark/GestureVoiceComposer.git
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/krish-sky1ark/GestureVoiceComposer.git
 3. Install the required dependencies mentioned below
 4. The Training dataset is present in the directory name Training_Dataset
 5. To build a new model Run the GestureVoiceComposer.ipynb file.
