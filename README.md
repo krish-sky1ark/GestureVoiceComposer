@@ -31,9 +31,14 @@ Below are the hand gestures used in GestureVoiceComposer:
 
 To get started with GestureVoiceComposer, follow these simple steps:
 
-1. Clone the repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the main script: `python main.py`.
+1. Clone the repository to your local machine. git clone https://github.com/krish-sky1ark/GestureVoiceComposer.git
+
+2. Install the required dependencies mentioned below
+3. The Training dataset is present in the directory name Training_Dataset
+4. To build a new model Run the GestureVoiceComposer.ipynb file.
+5. To just test a model in real time run RealTimeTesting.ipynb mentioning path of the model.
+6. GVCmodel.h5 is the pre-trained model trained on training dataset provided.
+7. While testing make hand gestures like those displayed above. The model predicts the action and speaks it.
 
 ## Dependencies
 
@@ -47,12 +52,10 @@ To get started with GestureVoiceComposer, follow these simple steps:
 - Keras
 - matplotlib
 
-## Contributing
 
-Contributions are welcome! If you have ideas for improvements or would like to fix a bug, feel free to open an issue or submit a pull request.
+## Conect with me:
+- LinkedIn: [LinkedIn Profile]( https://www.linkedin.com/in/krish-khadria-034401271/)
+- GitHub: [GitHub Profile](https://github.com/krish-sky1ark)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 Happy GestureVoiceComposing!
